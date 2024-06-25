@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Bridge
+* source:	https://sketchfab.com/3d-models/medieval-bridge-ae1a6362ec064c95bbd000fd5c34b388
+* author:	Daan van Leeuwen (https://sketchfab.com/superwortel)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Bridge" (https://sketchfab.com/3d-models/medieval-bridge-ae1a6362ec064c95bbd000fd5c34b388) by Daan van Leeuwen (https://sketchfab.com/superwortel) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
